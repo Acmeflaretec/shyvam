@@ -161,7 +161,7 @@
 					  {
 					    number: num,
 					    numberStep: comma_separator_number_step
-					  }, 4000
+					  }, 7000
 					);
 				});
 				
