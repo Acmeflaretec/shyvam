@@ -8904,11 +8904,11 @@ textarea.form-control {
     font-size: 18px;
     font-weight: 700; }
   .ftco-footer .ftco-footer-widget ul li {
-    color: rgba(255, 255, 255, 0.5); }
+    color: white; }
     .ftco-footer .ftco-footer-widget ul li a {
-      color: rgba(255, 255, 255, 0.5); }
+      color: white; }
       .ftco-footer .ftco-footer-widget ul li a span {
-        color: rgba(255, 255, 255, 0.5);
+        color: white;
         font-size: 14px; }
   .ftco-footer .ftco-footer-widget .btn-primary {
     background: #fff !important;
@@ -8917,9 +8917,9 @@ textarea.form-control {
       background: #fff;
       border: 2px solid #fff !important; }
   .ftco-footer p {
-    color: rgba(255, 255, 255, 0.7); }
+    color: #fff }
   .ftco-footer a {
-    color: #5BBCFF; }
+    color: #fff; }
     .ftco-footer a:hover {
       color: #5BBCFF; }
 
@@ -8937,6 +8937,7 @@ textarea.form-control {
     .ftco-footer-social li a span {
       position: absolute;
       font-size: 20px;
+      color: white;
       top: 50%;
       left: 50%;
       -webkit-transform: translate(-50%, -50%);
@@ -8950,12 +8951,12 @@ textarea.form-control {
   .footer-small-nav > li a {
     margin: 0 10px 10px 0; }
     .footer-small-nav > li a:hover, .footer-small-nav > li a:focus {
-      color: #5BBCFF; }
+      color: #fff; }
 
 .media .ftco-icon {
   width: 100px; }
   .media .ftco-icon span {
-    color: #5BBCFF; }
+    color: #fff; }
 
 .ftco-media {
   background: #fff;
@@ -8979,7 +8980,7 @@ textarea.form-control {
   .ftco-media .icon {
     font-size: 50px;
     display: block;
-    color: #5BBCFF; }
+    color: #fff; }
   .ftco-media.text-center .ftco-icon {
     margin: 0 auto; }
 
@@ -9023,7 +9024,7 @@ textarea.form-control {
   font-size: 18px;
   display: inline-block;
   margin-bottom: 0;
-  color: #5BBCFF;
+  color: #fff;
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 2px;
@@ -9040,7 +9041,7 @@ textarea.form-control {
     width: 50px;
     height: 1px;
     margin-top: -1px;
-    background: #5BBCFF; }
+    background: #fff; }
   .heading-section .subheading:before {
     position: absolute;
     top: 50%;
@@ -9052,7 +9053,7 @@ textarea.form-control {
     width: 50px;
     height: 1px;
     margin-top: -1px;
-    background: #5BBCFF; }
+    background: #fff; }
 
 .heading-section h2 {
   font-size: 60px;
