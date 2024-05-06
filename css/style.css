@@ -8254,7 +8254,7 @@ h1, h2, h3, h4, h5,
     border-radius: 2px; }
     .ftco-navbar-light .navbar-nav > .nav-item.cta > a span {
       display: inline-block;
-      color: #fff; }
+      color: black ; }
     .ftco-navbar-light .navbar-nav > .nav-item.cta > a:hover {
       background: #5BBCFF;
       border: 1px solid #5BBCFF; }
@@ -8268,7 +8268,8 @@ h1, h2, h3, h4, h5,
       color: #5BBCFF; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: rgba(0, 0, 0, 0.5) !important;
+    color: black;
+    font-weight: bold;
     cursor: pointer;
     padding-right: 0;
     text-transform: uppercase;
